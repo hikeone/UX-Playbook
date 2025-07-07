@@ -11,13 +11,9 @@ description: >-
 
 Accessibility of a digital product revolves around making a product usable, or ‘accessible’ for as many people as possible, including those with a (situational) impairment. By taking into account users with impairments from the very start of your design process, you ensure your product works for a much larger group. We call this inclusive design. It also prevents accessibility becomes an afterthought or worse; a separate product for specific target groups. Moreover, an accessible product always leads to improved usability overall, something every user experience should strive for.
 
-{% hint style="info" %}
-From 2025, or even earlier, the [European accessibility act](https://ec.europa.eu/social/main.jsp?catId=1202) will require some types of products to be accessible by law.
-{% endhint %}
-
 ## **General: WCAG**
 
-The Web Content Accessibility Guidelines (WCAG) are often used guidelines for web/digital accessibility. It’s good to know there are three levels and four principles. It’s also a versioned set of guidelines which is updated once in a while, the 2.2 version is to be published somewhere around 2023.
+The Web Content Accessibility Guidelines (WCAG) are often used guidelines for web/digital accessibility. It’s good to know there are three levels and four principles. It’s also a versioned set of guidelines which is updated once in a while, the [2.2 version](https://www.w3.org/TR/WCAG22/) was published in December 2024.
 
 ### Levels
 
@@ -35,6 +31,10 @@ All guidelines fall under their four principles; things should be...
 * operable - users can interact with all relevant elements
 * understandable - texts are readable, interactions are predictable, errors are helpful
 * robust - it works with the iPhone 20, but also an old desktop with a screen reader
+
+## European Accessibility Act
+
+In 2025, the [European Accessibility Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882#anx_I) went into effect. This requires websites and (digital) products to be accessible (for [most organisations](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en#products-and-services-covered), with some exemptions). It mostly requires WCAG adherence, product processes integrating accessibility, communicating about compliance and providing a feedback mechanism. [Tetralogical](https://tetralogical.com/blog/2025/03/19/understanding-the-eaa/), [Martijn Hols](https://martijnhols.nl/blog/the-european-accessibility-act-for-websites-and-apps) and [Craig Abbott](https://www.craigabbott.co.uk/blog/european-accessibility-act-what-you-need-to-know/) have written solid explanations.&#x20;
 
 ## Things to consider
 
@@ -113,13 +113,24 @@ Take diversity into consideration when selecting participants for research activ
 * [Inclusive language](https://brand-at.webflow.io/voice-and-tone#inclusive-language) as part of the Webflow brand guide helps to **write better copy**
 * [Tetralogical](https://tetralogical.com/) has lots of resources, like [foundational explanations](https://tetralogical.com/blog/2022/11/08/foundations-native-versus-custom-components/) and [videos of people using assistive technologies](https://tetralogical.com/blog/2021/12/24/browsing-with-assistive-technology-videos/)
 * [Testing/monitoring](https://www.gov.uk/guidance/accessibility-monitoring-how-we-test) by UK.gov
+* The British Government Digital Service wrote an [extensive testing guideline](https://github.com/alphagov/wcag-primer/wiki)
+* [Beyond Design Barriers](https://designbeyondbarriers.com/) splits up information in frequently asked questions
 
 Methods that can help in applying accessibility principles:
 
 * [Copy](../methods/design/copy.md)
 
+Our own writing on hike.one:
+
+* [What even is digital accessibility](https://hike.one/insights/what-is-accessibility)
+* [Getting started with accessibility](https://hike.one/insights/getting-started-with-accessibility)
+* [Accessibility guidelines and legislation](https://hike.one/insights/accessibility-guidelines-and-legislation)
+* [Hurdles between you and an accessible product](https://hike.one/insights/hurdles-accessible-product)
+* [How to evaluate the accessibility of your website or app](https://hike.one/insights/accessibility-evaluation-template)
+* [Accessibility testing and recruitment pitfalls](https://hike.one/insights/accessibility-testing-and-recruitment-pitfalls)
+
 ## Who to ask
 
 * We have worked with [Visio](https://www.visio.org/home/) in the past, to check our designs on accessibility for the visually impaired. Contact Roderick Trompert for more information.
-* In 2022, we had [Digitaal Toegankelijk](https://digitaaltoegankelijk.nl/) organise an accessibility workshop for us. Contact Yvonne Licher for more information.
-* Floris Jansen is currently the [topic guide](https://app.holaspirit.com/o/5fca2b9cce82c73a4f26ef80/governance/roles#role-628b7e2bb52c3006211bd462) on accessibility within the Product Design circle.
+* In 2022, we had [Digitaal Toegankelijk](https://digitaaltoegankelijk.nl/) organise an accessibility workshop for us.&#x20;
+* We have used the recruitment services from [Stichting Accessibility](https://www.accessibility.nl/) in 2024/2025, Boyd knows more about this.
