@@ -16,13 +16,11 @@ To keep our work private when sharing boards with clients a couple of things **n
 There are 2 ways to work together with clients in Miro.&#x20;
 
 1. [**Work together within a Miro Team: use for longer projects that need multiple boards.** ](https://app.gitbook.com/@hikeone/s/project-playbook/tools/miro#creating-a-miro-project-team)\
-   👉 Ask your Project Manager to set up your Miro project.\
-
+   👉 Ask your Project Manager to set up your Miro project.<br>
    * \+ Clients will only have access to the boards within the Miro team you create.&#x20;
    * \+ Cursors show names, easy for the facilitator.
    * \+ Overview of all project boards within the team, convenient when using multiple boards within the project.&#x20;
-   * \- Check if the client needs to use the board for more than 5 days (a bit of administration)\
-
+   * \- Check if the client needs to use the board for more than 5 days (a bit of administration)<br>
 2. [**Work together with a private link: use for short project.**](https://app.gitbook.com/@hikeone/s/project-playbook/tools/miro#creating-a-miro-project-team)
 
 * \+ Clients don’t need to create an account.
@@ -36,8 +34,7 @@ There are 2 ways to work together with clients in Miro.&#x20;
 A Project Manager or Miro Admin can create a project team. This prevents our clients from ever seeing all Hike One project boards and other client’s contact information.&#x20;
 
 1. **Create a new team:** [https://miro.com/app/settings/company/3074457347815145420/teams](https://miro.com/app/settings/company/3074457347815145420/teams)\
-   ![](https://paper-attachments.dropbox.com/s_348DCEBC0C600177D00F8AC4455B9AEB5968D2C77684232F042854F1AFC93C0E_1588339095932_Screenshot+2020-05-01+at+15.15.43.png)\
-
+   ![](https://paper-attachments.dropbox.com/s_348DCEBC0C600177D00F8AC4455B9AEB5968D2C77684232F042854F1AFC93C0E_1588339095932_Screenshot+2020-05-01+at+15.15.43.png)<br>
 2. **Add Hikers to the team**\
    Invite Hikers from the Hike One team or add them via the email-address as an occasional user. If you need to use the Miro boards 5 days in a row or more, add them as a full-license team member. \
    \

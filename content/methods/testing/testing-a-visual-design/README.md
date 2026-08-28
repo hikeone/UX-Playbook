@@ -24,7 +24,7 @@ Preparation: \
 ±4 hours.\
 \
 Conducting the test: \
-&#xNAN;_-_ Showing the design: Depends on the method. \
+_-_ Showing the design: Depends on the method. \
 \- Capturing the response: 10min.\
 \
 Analyzing the data:\
@@ -32,7 +32,7 @@ Analyzing the data:\
 
 #### Examples:
 
-#### [Elke, zorgplatform - Evaluating if the brand attributes are perceived correctly. ](https://app.usabilityhub.com/preview/5c0ab468cca8)[Oxy b - Testing two directions for the visual identity](https://hike-one.typeform.com/to/wwcDdF).
+#### [Elke, zorgplatform - Evaluating if the brand attributes are perceived correctly.<br>](https://app.usabilityhub.com/preview/5c0ab468cca8)[Oxy b - Testing two directions for the visual identity](https://hike-one.typeform.com/to/wwcDdF).
 
 #### [CMND - Dashboard design](https://app.usabilityhub.com/preview/5c609e6e1556) [Hike One website - A/B testing the copy for a hero image](https://app.usabilityhub.com/preview/b47fc5deb3e0).
 

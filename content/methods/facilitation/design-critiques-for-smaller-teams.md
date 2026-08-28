@@ -59,12 +59,10 @@ Before the first presentation starts, the facilitator explains the rules, and te
 \
 **Round 1: Presentation**\
 A designer has 5 minutes to tell his story. To provide his case with the correct contact, the above "For all presenters" list must be mentioned.\
-The facilitator asks critiquers to write down all feedback on post-its during the presentation. Critiquers only speak when the presenter indicates that critiques are allowed to ask questions during his presentation. It's the facilitators' job to prevent any form of discussion. \
-
+The facilitator asks critiquers to write down all feedback on post-its during the presentation. Critiquers only speak when the presenter indicates that critiques are allowed to ask questions during his presentation. It's the facilitators' job to prevent any form of discussion. <br>
 
 **Round 2: Clarifying questions**\
-There's a big change critiquers have related questions after a presentation. That is why the group has 2 minutes to ask clarifying questions. When new information is shared, critiquers once again write down their feedback. The facilitator ensures that everyone is heard.\
-
+There's a big change critiquers have related questions after a presentation. That is why the group has 2 minutes to ask clarifying questions. When new information is shared, critiquers once again write down their feedback. The facilitator ensures that everyone is heard.<br>
 
 **Round 3: Receive feedback**\
 In the last round, the presenter receives feedback on his case. As a facilitator you can ask the presenter how he wants to receive the feedback:
@@ -78,4 +76,4 @@ It's up to the presenter on how to receive feedback. As well, he is allowed to r
 
 Regardless of the outcome, in a critique there is no right or wrong. As a facilitator, be aware that any presenter is doing his best and is vulnerable. Therefore, make every effort to help him receive the feedback he is looking for.
 
-As a facilitator, you can refer back to the "for all presenters" list if necessary. Good feedback is independent of personal preferences and focussed on solving the problem someone is running into. For this reason, ask critiquers for clarification when feedback is not actionable. It is also very likely that new designers have never learned to receive feedback. It is your role to help them. Receiving feedback is a skill as well.\
+As a facilitator, you can refer back to the "for all presenters" list if necessary. Good feedback is independent of personal preferences and focussed on solving the problem someone is running into. For this reason, ask critiquers for clarification when feedback is not actionable. It is also very likely that new designers have never learned to receive feedback. It is your role to help them. Receiving feedback is a skill as well.<br>

@@ -26,7 +26,7 @@ Storyboarding is drawing out the story around the use of your product in differe
 * The main character of your storyboard is your persona. See: [personas](../mapping/personas.md).
 * Emphasise the emotions of the characters in the different situations to strengthen your story.&#x20;
 * Your storyboard should be based both on user research (who is your user, what are their needs, how do they behave in certain situations) as well as on your vision of the product (what can it do, how will it help the user).&#x20;
-* Give your storyboard a logical plot with a beginning, middle and end. See: [storytelling](broken-reference).&#x20;
+* Give your storyboard a logical plot with a beginning, middle and end. See: [storytelling](/broken/pages/-LIKg8fEyFQEHTsKhYEn).&#x20;
 * When you are drawing detailed screens and interactions in your storyboard frame, it might be time to move on to wireframing. See: [wireframing](../design/wireframing.md).
 * The goal of the storyboard is to understand the context of use of your product, so draw context! Not just a guy with a phone in an endless white space.&#x20;
 * As an interaction designer you can make a storyboard as part of your ideation phase. You can then discuss the storyboard with stakeholders, and adjust it accordingly. It is also possible to draw the storyboard together with stakeholders. In this case it is important to appoint one draughtsman and one decision maker.&#x20;

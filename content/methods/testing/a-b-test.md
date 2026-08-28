@@ -74,8 +74,7 @@ What you nevershould do is stop a test just because it reaches statistical signi
 
 At this step you make your variation. Take the example of Ziggo:
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_CF6B4A2496B9D89998347B9C4451F49A19751252768C9108E7CA19A93A0479DF_1524139325438_a1.png)![](https://d2mxuefqeaa7sj.cloudfront.net/s_CF6B4A2496B9D89998347B9C4451F49A19751252768C9108E7CA19A93A0479DF_1524139362888_b1.png)\
-
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_CF6B4A2496B9D89998347B9C4451F49A19751252768C9108E7CA19A93A0479DF_1524139325438_a1.png)![](https://d2mxuefqeaa7sj.cloudfront.net/s_CF6B4A2496B9D89998347B9C4451F49A19751252768C9108E7CA19A93A0479DF_1524139362888_b1.png)<br>
 
 ### **4.** Set up & run the A/B test
 

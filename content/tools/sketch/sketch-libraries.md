@@ -62,8 +62,7 @@ Your layer hierarchy is reflected in the overrides panel. You can help future us
 ## Frequently asked questions
 
 **Is it possible to run multiple libraries in the same Sketch document?** \
-You can run as many libraries as you’d like in the same Sketch document. \
-
+You can run as many libraries as you’d like in the same Sketch document. <br>
 
 **What’s the difference between symbols and library symbols?**\
 Symbols allow you to reuse elements easily across your document’s Artboards, Pages and multiple documents. All changes will only affect that Sketch document where those Symbols are saved (locally). Library symbols work globally instead. They’re connected to the Library and every change will cascade in all Sketch documents where the Library is in use.

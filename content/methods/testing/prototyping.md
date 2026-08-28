@@ -15,7 +15,7 @@ Prototyping is making an early ‘working’ model of the final product, in orde
 
 The fidelity level of a prototype also varies. From paper prototypes to test out first ideas, to fully interactive animated prototypes for advanced user testing or developer handover. We use prototyping to understand the product we are designing in its entirety, not just as static screens. The output is a prototype that can be interacted with, on the device the product is designed for.&#x20;
 
-> To know more about prototypes as [deliverables](broken-reference), see prototypes.
+> To know more about prototypes as [deliverables](/broken/pages/-LIKg7CQmp0x1o25Bizi), see prototypes.
 
 ## How to
 

@@ -58,19 +58,16 @@ The Hike One ID Library should now be in your list of libraries, and have a chec
 \
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_598DC75F4013E4EE7F43BBC5B705750AC132BFEC91E1DBAE92EA7D1567BFF764_1532338298902_image.png)
 
-Select the elements you want to use via the Symbols menu drilldown. This gives you a preview of the elements you can use. When you’re used to the library (contents) I strongly recommend using the [Runner](http://sketchrunner.com/) plugin. Open it with `Cmd+'`, and set the default to the ‘insert’ functionality to speed up the process\
-
+Select the elements you want to use via the Symbols menu drilldown. This gives you a preview of the elements you can use. When you’re used to the library (contents) I strongly recommend using the [Runner](http://sketchrunner.com/) plugin. Open it with `Cmd+'`, and set the default to the ‘insert’ functionality to speed up the process<br>
 
 ## FAQ
 
 ### How do I get library updates?
 
 The library will be updated via the default Sketch library update process. Check the notifications in the top right hand corner of Sketch to see new updates:\
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_598DC75F4013E4EE7F43BBC5B705750AC132BFEC91E1DBAE92EA7D1567BFF764_1532339633746_image.png)![](https://d2mxuefqeaa7sj.cloudfront.net/s_598DC75F4013E4EE7F43BBC5B705750AC132BFEC91E1DBAE92EA7D1567BFF764_1532339660683_image.png)\
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_598DC75F4013E4EE7F43BBC5B705750AC132BFEC91E1DBAE92EA7D1567BFF764_1532339633746_image.png)![](https://d2mxuefqeaa7sj.cloudfront.net/s_598DC75F4013E4EE7F43BBC5B705750AC132BFEC91E1DBAE92EA7D1567BFF764_1532339660683_image.png)<br>
 
-
-Release notes will be available through the library slack channel: #hikeone-id-library\
-
+Release notes will be available through the library slack channel: #hikeone-id-library<br>
 
 ### Will the elements resize automatically?
 
@@ -81,8 +78,7 @@ Long answer: The elements were designed to be resizable (in most cases in horizo
 
 By default, the elements in the library are set up so that the states of the elements are clustered. This means that a different state can be easily be selected through the symbol drop-down.
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_598DC75F4013E4EE7F43BBC5B705750AC132BFEC91E1DBAE92EA7D1567BFF764_1532343131470_image.png)\
-
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_598DC75F4013E4EE7F43BBC5B705750AC132BFEC91E1DBAE92EA7D1567BFF764_1532343131470_image.png)<br>
 
 ### Can I add my own symbol to the library?
 

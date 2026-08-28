@@ -72,4 +72,4 @@ Find a recommended list of sessions for during a sprint zero below:
 **Facilitator:** Scrum Master.\
 **Output:** Agreed and documented definition of done.\
 \
-\
+<br>

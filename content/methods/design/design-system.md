@@ -36,8 +36,7 @@ Based on thebrand values and guidelines, it can be useful to set some ruleson ho
 
 ### Living style guide
 
-A living style guide covers the documentationof the look and feel of products(griddefinition, color palette, typography, iconography guidelines etc.).\
-
+A living style guide covers the documentationof the look and feel of products(griddefinition, color palette, typography, iconography guidelines etc.).<br>
 
 ### Living pattern library
 
@@ -80,8 +79,7 @@ All components within a atomic design system are interconnected with one another
 
 #### **Share the system:**
 
-Plain and simple, share your system with your team so that your all always up to date and working on the most current version. Luckily in Sketch there are shared libraries.\
-
+Plain and simple, share your system with your team so that your all always up to date and working on the most current version. Luckily in Sketch there are shared libraries.<br>
 
 ### Related reading material
 

@@ -57,8 +57,7 @@ Target Keyword: In your spreadsheet, you can include target keywords that pieces
 {% tab title="3. Address content issues" %}
 You can’t do everything at once, so take your list and start to prioritize based on how critical each issue is and how time consuming or difficult it will be to address it.
 
-When you run an SEO audit on Ubersuggest, as I showed above, you’ll receive recommendations with these priority factors listed. You can use that as a guide for all your content issues. Here’s a review of how they are ranked on UberSuggest.\
-
+When you run an SEO audit on Ubersuggest, as I showed above, you’ll receive recommendations with these priority factors listed. You can use that as a guide for all your content issues. Here’s a review of how they are ranked on UberSuggest.<br>
 
 ![How to Run a Content Audit UberSuggest recommendations chart](https://neilpatel.com/wp-content/uploads/2020/12/How-to-Run-a-Content-Audit-UberSuggest-recommendations-chart.png)
 {% endtab %}

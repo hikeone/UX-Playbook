@@ -16,24 +16,19 @@ Check out our [Generic Sketch file](https://www.dropbox.com/work/hike-one_design
 Use pages to structure your file. A typical project will contain the following pages:
 
 * **Style guide**\
-  An interaction designer will have a wireframe version of this page, with just some text styles. A visual designer will have a page with colours, typography and icons. \
-
+  An interaction designer will have a wireframe version of this page, with just some text styles. A visual designer will have a page with colours, typography and icons. <br>
 * **Pattern library**\
-  Containing components and patterns, etc. And their states and explanations.\
-
+  Containing components and patterns, etc. And their states and explanations.<br>
 * **Iterations**\
-  A page(ormultiple pages) containing all the iterations you make. Usually per page, or per concept.\
-
+  A page(ormultiple pages) containing all the iterations you make. Usually per page, or per concept.<br>
 * **Latest version**\
-  Make sure to clearly mark the latest versionin your file, so everyone knows this is the latest and greatest. This can be 1 page with an overview of all latest designs if it is a small project, or separate pages per page/template/design issue if it’s a larger project.\
-
+  Make sure to clearly mark the latest versionin your file, so everyone knows this is the latest and greatest. This can be 1 page with an overview of all latest designs if it is a small project, or separate pages per page/template/design issue if it’s a larger project.<br>
 * **Flows/sitemap (optional)**\
   Containing flows between screens/elements? This can be a flow chart or a range of screens in order, maybe connected with arrows. Check with your ID-colleagues for best practices.&#x20;
 
 ![Example sitemap](https://d2mxuefqeaa7sj.cloudfront.net/s_4C466BCC0E97E50DE1E501156598A5863794C25AC3B438D2A2B2F346C663B6DA_1531734520923_opzet_sitemap.png)
 
-\
-
+<br>
 
 ![Example sitemap](https://d2mxuefqeaa7sj.cloudfront.net/s_4C466BCC0E97E50DE1E501156598A5863794C25AC3B438D2A2B2F346C663B6DA_1531734702884_navigation-map_before_redesign.png)
 
@@ -55,8 +50,7 @@ Do yourself and colleagues a favour: Cluster your artboards + add a large label 
 
 ### Name your layers & groups
 
-This should not have to be mentioned, but unfortunately this isn’t done by default by everyone: Please make sure to name your layers, or at least name your groups! If you don’t do it on all your artboards, at least do it on your final/latest artboards!\
-
+This should not have to be mentioned, but unfortunately this isn’t done by default by everyone: Please make sure to name your layers, or at least name your groups! If you don’t do it on all your artboards, at least do it on your final/latest artboards!<br>
 
 {% hint style="info" %}
 **Pro-tip:** Use smart [plugins](plugins.md) such as [Cleanup Useless Groups](https://github.com/bomberstudios/Cleanup-Useless-Groups) & [Rename it](https://rodi01.github.io/RenameIt/)

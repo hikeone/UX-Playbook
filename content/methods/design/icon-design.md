@@ -8,8 +8,7 @@ An icon set is a set of small, clear, recognisable illustrated symbols.  In UI d
 
 A good, legible icon set can really improve usability in a digital product. A layout becomes more scannable and a good designed icon makes you recognise it and find quickly what you’re looking for.Icons are a part of your visual identity. If you choose to make icons with a characteristic style, it can become a valuable part of your visual identity.A consistent style also improves your visual style by making it balanced and less messy.
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_67E52A0A8F9E194A2167066E9A0B895A70C4919CAFADAC9D3CD234AD292C9B89_1525417843176_airbnb.png)\
-
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_67E52A0A8F9E194A2167066E9A0B895A70C4919CAFADAC9D3CD234AD292C9B89_1525417843176_airbnb.png)<br>
 
 ## Deliverables
 

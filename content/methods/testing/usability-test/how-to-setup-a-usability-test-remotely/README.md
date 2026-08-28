@@ -302,8 +302,7 @@ Don’t hesitate to contact me if you have any questions. I am looking forward t
 
 Best regards,
 
-\[your name]\
-
+\[your name]<br>
 
 ## Declaration of consent&#x20;
 
@@ -311,16 +310,14 @@ When sending an email a week in advance of the test, you should also include a d
 
 **Declaration of consent**
 
-We process your personal data in order to be able to carry out our research and to report on it. You have been informed about this prior to the research. Information about the processing of personal data can be found in our privacy statement: ([https://hike.one/topic/privacy-statement](https://hike.one/topic/privacy-statement)).\
-
+We process your personal data in order to be able to carry out our research and to report on it. You have been informed about this prior to the research. Information about the processing of personal data can be found in our privacy statement: ([https://hike.one/topic/privacy-statement](https://hike.one/topic/privacy-statement)).<br>
 
 In addition, we would like to ask your permission for photos and video material on which you are recognizable to use for promotional purposes, for example for display on our website. This permission is not mandatory and can be revoked at any time by you.
 
 * I authorize Hike One to use photos for promotional purposes (website, presentation of this project to third parties). - optional -&#x20;
 * I realize that all information about the products and / or services we test during the investigation is confidential. I declare that I will treat all information that I will keep strictly confidential during or in connection with the study and that I will not disclose it to third parties.
 
-Only Dutch law applies to this statement. In the event of a dispute with regard to this statement, only the court in The Hague is competent to take cognizance.\
-
+Only Dutch law applies to this statement. In the event of a dispute with regard to this statement, only the court in The Hague is competent to take cognizance.<br>
 
 \
 Name

@@ -34,7 +34,7 @@ Think about the company as a person. What would the character traits be? This ex
 
 What other companies are offering similar services and how do you want to express yourself differently? That’s what this exercise is about.
 
-### **Lunch** **(30** **min)** 
+### **Lunch** **(30** **min)**<br>
 
 ## Visual Identity Sprint (2.5 hours)
 

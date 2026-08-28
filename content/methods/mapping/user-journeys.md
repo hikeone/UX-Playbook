@@ -321,8 +321,7 @@ TheyDo is a customer journey management tool. It is a tool designed specifically
 * Vendor lock-in: you can’t get the full experience outside of TheyDo
 
 \
-\
-
+<br>
 
 ## Learn more
 

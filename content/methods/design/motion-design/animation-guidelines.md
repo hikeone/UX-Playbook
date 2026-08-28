@@ -55,16 +55,14 @@ Can be used for an exit animation of an object or screen
 
 
 
-\
-
+<br>
 
 **ease-out** (Starts fast and loses speed)\
 Can be used for an enter animation of an object or screen&#x20;
 
 <div align="left"><img src="../../../.gitbook/assets/enterAnimation 3.gif" alt="Enter animation"></div>
 
-\
-
+<br>
 
 
 

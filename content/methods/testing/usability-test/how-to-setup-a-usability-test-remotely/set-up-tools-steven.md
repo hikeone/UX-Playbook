@@ -64,8 +64,7 @@ If you're testing on mobile make sure your users have the [Participate app by Lo
 
 **Please note: Due to changes in the available plans we now pay per session. Our current plan has 100 sessions available, please avoid starting a session if not needed!**\
 \
-When the user has clicked the link and is in the test a button **Join Liveshare** should appear. Click that to start the test! Now if everything goes well you should be able to see the participant and their screen. You're ready to test!\
-
+When the user has clicked the link and is in the test a button **Join Liveshare** should appear. Click that to start the test! Now if everything goes well you should be able to see the participant and their screen. You're ready to test!<br>
 
 ![](<../../../../.gitbook/assets/image (3).png>)
 
@@ -89,8 +88,7 @@ When you've finished up testing **please be sure to delete the invited clients f
 
 Like explained in the setup, all sessions will be recording automatically. There is no need to start this by yourself.&#x20;
 
-You can look back all the recorded sessions and share them with clients from within your project.\
-
+You can look back all the recorded sessions and share them with clients from within your project.<br>
 
 ![Looking back a Lookback recording. Wonder where they got their name from? 🙃](<../../../../.gitbook/assets/image (23).png>)
 {% endtab %}
@@ -98,8 +96,7 @@ You can look back all the recorded sessions and share them with clients from wit
 {% tab title="Communicate during the interview" %}
 ### How to communicate during the interview?
 
-This is all built-in fortunately! Observers can just click your observer link and use the the chat window on the right.\
-
+This is all built-in fortunately! Observers can just click your observer link and use the the chat window on the right.<br>
 
 ![Chatting on the right side panel](<../../../../.gitbook/assets/image (8).png>)
 {% endtab %}
@@ -143,8 +140,7 @@ Most Prototyping tools have their own player. Make sure the user has these playe
 {% tab title="How to set up?" %}
 ### 1. Schedule a meeting
 
-The easiest way to do usability testing with Zoom is to schedule meeting for all individual participants. In the Zoom App you can easily tweak settings to make it easier to use during a usability test. \
-
+The easiest way to do usability testing with Zoom is to schedule meeting for all individual participants. In the Zoom App you can easily tweak settings to make it easier to use during a usability test. <br>
 
 | Topic:                       | Name of the participant                  |
 | ---------------------------- | ---------------------------------------- |

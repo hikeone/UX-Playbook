@@ -8,13 +8,11 @@ Saving a file as SVG (Scalable Vector Graphic) will create a code that tells the
 
 * **Performance**
 
-An important aspect for webperformance is the size of a file on a webpage. The size of an SVG depends on how complex it is. The simpler the shape, the less lines of code you'll need to describe it. This results in a smaller file size and a faster loading graphic.\
-
+An important aspect for webperformance is the size of a file on a webpage. The size of an SVG depends on how complex it is. The simpler the shape, the less lines of code you'll need to describe it. This results in a smaller file size and a faster loading graphic.<br>
 
 * **Scalability**
 
-As the name indicates, SVG’s are vector graphics; meaning they use code to describe shapes, resulting in scalable and resolution-independent graphics. The SVG retain sharpness no matter what the size is unlike pixels and its limitation. \
-
+As the name indicates, SVG’s are vector graphics; meaning they use code to describe shapes, resulting in scalable and resolution-independent graphics. The SVG retain sharpness no matter what the size is unlike pixels and its limitation. <br>
 
 * **Flexibility and Interactivity**
 
@@ -37,18 +35,15 @@ Especially when you want to animate your graphic, it’s best to sit down with t
 
 ### Converting strokes
 
-Before you export your file to SVG, make sure to convert your strokes or fonts into outlines. This prevents having wrong proportions when scaling your design. There are however some exceptions for not converting your strokes to outlines. You should use strokes if you want to:\
-
+Before you export your file to SVG, make sure to convert your strokes or fonts into outlines. This prevents having wrong proportions when scaling your design. There are however some exceptions for not converting your strokes to outlines. You should use strokes if you want to:<br>
 
 * **Use different colours**
 
-When you use strokes in your design, you’re able to easily give it a different colour. For example: The animations on the website of De Voorhoede.\
-
+When you use strokes in your design, you’re able to easily give it a different colour. For example: The animations on the website of De Voorhoede.<br>
 
 * **Animate (drawing)**
 
-A huge benefit of SVG animations over GIFs or videos is that they are super lightweight and load very fast. Keep the original lines and shapes before saving your SVG because once it's converted to outlines / filled shapes they are not longer usable for animations.\
-
+A huge benefit of SVG animations over GIFs or videos is that they are super lightweight and load very fast. Keep the original lines and shapes before saving your SVG because once it's converted to outlines / filled shapes they are not longer usable for animations.<br>
 
 * **Use smaller sizes**
 
@@ -110,8 +105,7 @@ When you run your SVG through SVG OMG you don’t have to select ‘Minify’ to
 \
 **Responsive**&#x20;
 
-When you check this box, the SVG doesn’t have any width or height. In most cases this means that it automatically will fill as much space as possible. By turning off responsive, you’re adding the width and height from the artboard to the base SVG, so the SVG does know what to do. We usually advice to turn it off.\
-
+When you check this box, the SVG doesn’t have any width or height. In most cases this means that it automatically will fill as much space as possible. By turning off responsive, you’re adding the width and height from the artboard to the base SVG, so the SVG does know what to do. We usually advice to turn it off.<br>
 
 4\. Click on the OK-button to export your SVG!
 

@@ -2,8 +2,7 @@
 
 A test always consist out of two parts. Depending on your research question you can combine several methods that works best for your research question.
 
-[1. How to show the visual design\
-](how-it-works.md#part-1-showing-the-design)[2. How to capture the response](how-it-works.md#part-2-capturing-the-users-response)\
+[1. How to show the visual design<br>](how-it-works.md#part-1-showing-the-design)[2. How to capture the response](how-it-works.md#part-2-capturing-the-users-response)\
 [3. Choosing the right method](how-it-works.md#how-to-choose-the-right-method)\
 [4. Testing complex designs (e.g. a landing page)](how-it-works.md#want-to-test-a-complex-design-e-g-a-lot-of-elements-a-lot-of-text)\
 [5. Tools & resources](how-it-works.md#tools)
@@ -46,6 +45,5 @@ Testing a simple poster design requires a different approach then testing a dash
 \
 [**A4 template**](https://www.dropbox.com/s/uz2el69ypexlbbs/desirability-test-template.sketch?dl=0) (sketch)**:** When conducting a test in-personal this is the way to go.\
 [**Windows Reaction words (English):** ](https://www.nngroup.com/articles/desirability-reaction-words/)The original 118 words list with some background info.\
-[**Windows Reaction words (Dutch)**](https://paper.dropbox.com/doc/Microsoft-Reaction-words-English-Nederlandse--Aa_rbsDD5CU~aZic8yHeUhEiAQ-wrrRHfmBHZs70xu2PAdwD)**:** 188 words translated to Dutch - Translated by Hike One.\
-
+[**Windows Reaction words (Dutch)**](https://paper.dropbox.com/doc/Microsoft-Reaction-words-English-Nederlandse--Aa_rbsDD5CU~aZic8yHeUhEiAQ-wrrRHfmBHZs70xu2PAdwD)**:** 188 words translated to Dutch - Translated by Hike One.<br>
 

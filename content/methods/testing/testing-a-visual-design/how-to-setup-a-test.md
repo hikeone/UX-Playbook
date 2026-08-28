@@ -23,8 +23,7 @@ Capture the response:
 
 * Discover which words and description people use to describe a design. Especially helpful in the early stage a design project when you're still trying to figure out what works and what doesn't = Open word choice
 * Validate whether the brand attributes are perceived correctly by participants = [Closed reaction words](https://www.nngroup.com/articles/microsoft-desirability-toolkit/)
-* Assess the relative strength of each quality (e.g. friendly, clean, professional). Works best when you know a lot about the brand and when you're doing a quantitative research = [Numerical ratings](https://usabilityhub.com/product/design-surveys)\
-
+* Assess the relative strength of each quality (e.g. friendly, clean, professional). Works best when you know a lot about the brand and when you're doing a quantitative research = [Numerical ratings](https://usabilityhub.com/product/design-surveys)<br>
 
 #### **2. Talk to the (visual) designer.**
 
@@ -46,11 +45,9 @@ Select 25 (or 64 words max.). 25 is a lot more common.&#x20;
 #### **5. Show the design:**
 
 * As a part of a usability test:&#x20;
-  * Ask the questions after the usability related questions are done.\
-
+  * Ask the questions after the usability related questions are done.<br>
 * Stand alone:&#x20;
-  * You can show static screenshots, sketches, prints or moodboards.\
-
+  * You can show static screenshots, sketches, prints or moodboards.<br>
 * Testing multiple designs.
   * Show 1st design, pick words, ask questions. Repeat with design 2, 3, ect.
 

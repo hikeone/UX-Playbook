@@ -94,8 +94,8 @@ For every project, it is important to adhere to a set of design principles. They
 [cross-cultural-design.md](design-principles/cross-cultural-design.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-LPeCIEmAazd8magoK1A" %}
+[Broken link](/broken/pages/-LPeCIEmAazd8magoK1A)
 {% endcontent-ref %}
 
 {% content-ref url="design-principles/responsive-design.md" %}

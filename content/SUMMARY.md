@@ -6,6 +6,11 @@
 
 * [Research Sprint](organising-work/research-sprint.md)
 * [Design sprint](organising-work/design-sprint.md)
+* [AI Design Sprint®](organising-work/ai-design-sprint-r/README.md)
+  * [Opportunity Mapping](organising-work/ai-design-sprint-r/opportunity-mapping.md)
+  * [Framing](organising-work/ai-design-sprint-r/framing.md)
+  * [Concept development](organising-work/ai-design-sprint-r/concept-development.md)
+  * [Technical check & Prototype](organising-work/ai-design-sprint-r/technical-check-and-prototype.md)
 * [Lean innovation](organising-work/lean-startup/README.md)
   * [Workflow and tools](organising-work/lean-startup/workflow-and-tools.md)
   * [Roles and responsibilities](organising-work/lean-startup/roles-and-responsibilities.md)

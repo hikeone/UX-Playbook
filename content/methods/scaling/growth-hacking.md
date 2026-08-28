@@ -1,8 +1,7 @@
 # Growth hacking
 
 Growth hacking is a method that uses rapid data-driven experiments across several areas of a business in order to identify the most efficient ways to grow that business.\
-\
-
+<br>
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_994DA8B92065162DC645412D8FBCC77316E3E5595934BEC0A74621FCAE701A9B_1521625294367_image.png)
 
@@ -13,8 +12,7 @@ The real challenge is not to build a product, it’s pretty easy to build a cool
 Growth hacking is a means to answer the question “How do I get customers/users?”. Its focus is on distribution: growing the audience for your product, throughout the customer funnel. Growth hacking uses experiments driven by hypothesis and answered by real data to quickly validate possible ways of growing. It’s akin to lean startup methods.
 
 Use growth hacking if you have a product with good product-market fit, but are unsure of how to proceed in building your customer base.\
-Don’t use growth hacking if you’re unsure of the product-market fit. No amount of hacking is going to fix that gap. You’re better of using the [value proposition canvas](broken-reference) & [business model canvas](broken-reference).\
-
+Don’t use growth hacking if you’re unsure of the product-market fit. No amount of hacking is going to fix that gap. You’re better of using the [value proposition canvas](/broken/pages/-LIFXSJYeO6XLvqeh5mR) & [business model canvas](/broken/pages/-LIKjpthzhVR8M7Wk20m).<br>
 
 ## Output
 
@@ -25,8 +23,7 @@ Don’t use growth hacking if you’re unsure of the product-market fit. No amou
 * Business growth
 
 \
-[See the google sheet with frameworks, worksheets & examples →](https://docs.google.com/spreadsheets/d/1fz6VGgvmvdXCZDN6cqL3uAr191Uv5SDA3cGyunf-ecs/edit)\
-
+[See the google sheet with frameworks, worksheets & examples →](https://docs.google.com/spreadsheets/d/1fz6VGgvmvdXCZDN6cqL3uAr191Uv5SDA3cGyunf-ecs/edit)<br>
 
 ## What do you need?
 
@@ -87,22 +84,20 @@ Growth hacking is an iterative process that revolves around designing experiment
 
 ![Growth Tribe’s Pirate funnel](https://d2mxuefqeaa7sj.cloudfront.net/s_994DA8B92065162DC645412D8FBCC77316E3E5595934BEC0A74621FCAE701A9B_1521626869841_image.png)
 
-The Pirate funnel is the lifetime journey your customer experiences when interacting with your company. It's actually just a cute name for the customer acquisition pipeline.The ideas and experiments you’re going to design can be in any one of these sections, and you can use this funnel as inspiration to make sure you’ve thought about all phases of the funnel.\
-
+The Pirate funnel is the lifetime journey your customer experiences when interacting with your company. It's actually just a cute name for the customer acquisition pipeline.The ideas and experiments you’re going to design can be in any one of these sections, and you can use this funnel as inspiration to make sure you’ve thought about all phases of the funnel.<br>
 
 > _**Phase**: Awareness_\
-> &#xNAN;_**Experiment**: Write one LinkedIn article per month on hot topics like Growth hacking to drive traffic to hike.one_
+> _**Experiment**: Write one LinkedIn article per month on hot topics like Growth hacking to drive traffic to hike.one_
 
 > _**Phase:** Retention_\
-> &#xNAN;_**Experiment:** Send out a periodic newsletter with hooks to recent blogposts_
+> _**Experiment:** Send out a periodic newsletter with hooks to recent blogposts_
 
 #### **One Metric That Matters(OMTM)**
 
 The One Metric That Matters (OMTM) is the number one problem you’re solving now. It provides focus and a framework for your experiments.\
 If you’re lucky, the client already has a OMTM in place, ready to share with you. If not, you need to define together what you’ll be working on. Probably, the OMTM is the one thing that’s ‘broken’ in the funnel, the roadblock that needs fixing. I.e. your product already has quite a lot of users, but 90% of them fail to come back after the first use.\
 The OMTM can change over time. Let’s say you’re focussing on acquisition, getting foot traffic into your coffeeshop. Once you have enough traffic, you need to get people to buy coffee instead of stealing your Wi-Fi. Periodically revisit your OMTM to see if it is still the OMTM!\
-Make sure you quantify this metric, otherwise it’ll be meaningless. Depending on your experience with strategy & data, you might want to consult a strategist for this portion.\
-
+Make sure you quantify this metric, otherwise it’ll be meaningless. Depending on your experience with strategy & data, you might want to consult a strategist for this portion.<br>
 
 ### 1. Ideate
 
@@ -163,20 +158,20 @@ And now: Back to the top, rinse & repeat!
 
 ## Related
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-LIKjpthzhVR8M7Wk20m" %}
+[Broken link](/broken/pages/-LIKjpthzhVR8M7Wk20m)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-LIFXSJYeO6XLvqeh5mR" %}
+[Broken link](/broken/pages/-LIFXSJYeO6XLvqeh5mR)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-LIFXO_ZLCqVQdpAik61" %}
+[Broken link](/broken/pages/-LIFXO_ZLCqVQdpAik61)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-LIKk2NfSFfspfmKW4E5" %}
+[Broken link](/broken/pages/-LIKk2NfSFfspfmKW4E5)
 {% endcontent-ref %}
 
 {% content-ref url="../../organising-work/lean-startup/" %}

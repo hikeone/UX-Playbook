@@ -13,8 +13,7 @@ Digital products such as websites and apps are used on a wide range of devices: 
 The idea of responsive design is that the design adapts to the device the product is viewed on. The most important variable is the viewport: the screen size and orientation of devices like phones, or the window size on a laptop/desktop. A common method is to make a default design for 3 standard sizes: mobile, tablet and desktop. However, to support a range of screen sizes and to be future proof, it is best practice to design for continuous scaling (and not for three static sizes). Additionally, you could also consider something like dark mode, by _responding_ to a device setting or the amount of light in the device’s surroundings.
 
 \
-![](https://paper-attachments.dropbox.com/s_42EAED51978CBA89AA763A0ECE487B9C94120C5E271D7D73CB3377DDC417C020_1530003758768_breakpoints-01.jpg)![](https://paper-attachments.dropbox.com/s_42EAED51978CBA89AA763A0ECE487B9C94120C5E271D7D73CB3377DDC417C020_1530003831855_breakpoints-02.jpg)\
-
+![](https://paper-attachments.dropbox.com/s_42EAED51978CBA89AA763A0ECE487B9C94120C5E271D7D73CB3377DDC417C020_1530003758768_breakpoints-01.jpg)![](https://paper-attachments.dropbox.com/s_42EAED51978CBA89AA763A0ECE487B9C94120C5E271D7D73CB3377DDC417C020_1530003831855_breakpoints-02.jpg)<br>
 
 ## Viewport responsiveness
 
