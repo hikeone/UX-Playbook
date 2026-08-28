@@ -10,7 +10,7 @@ Before this session, the process for automation has already been identified. In 
 
 To get ready, there are three things you need to do:
 
-## **1. Map the process**
+## 1. Map the process
 
 Here is a template for mapping the process. Focus on capturing the current state of the process or workflow — not on solutions or how AI might be applied. This is about visualizing the status quo as it exists today.
 

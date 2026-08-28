@@ -18,7 +18,7 @@ The purpose of the Tech Check is to perform a technical feasibility check of the
 
 **Duration:** 2 days.
 
-## **2. Rapid Prototyping**
+## 2. Rapid Prototyping
 
 A working prototype built with real data to test the data quality and the AI model. It is not integrated into the client's IT infrastructure, and aspects like user experience and security are not addressed at this stage. Outcome: Prototype handover and a guide for testing.
 
